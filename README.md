@@ -5,7 +5,7 @@ All Premium features UNLOCKED.
 [Download Here](https://github.com/yazdipour/cracked-ticktick-windows/releases)
 
 ## How to use? 
-
+You should download the 32 bit version of ticktick to make this work. [Official Download Page of Ticktick](https://ticktick.com/about/windows)
 Copy the exe file inside installed path (usually `C:\Program Files (x86)\TickTick`)
 
 ## How I made it
